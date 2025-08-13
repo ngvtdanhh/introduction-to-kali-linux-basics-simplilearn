@@ -1,6 +1,6 @@
 # 🖥 Introduction to Kali Linux Basics – Simplilearn
 
-![Course](https://img.shields.io/badge/Simplilearn-Kali%20Linux%20Basics-Completed-red?style=flat-square&logo=linux)
+![Course](https://img.shields.io/badge/Simplilearn-Kali%20Linux%20Basics-Completed-red?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
 ![Scope](https://img.shields.io/badge/Focus-Penetration%20Testing%20Basics-green?style=flat-square&logo=linux)
 ![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
