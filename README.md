@@ -1,6 +1,6 @@
 # 🖥 Introduction to Kali Linux Basics – Simplilearn
 
-![Course](https://img.shields.io/badge/Simplilearn-Kali%20Linux%20Basics-Completed-red?style=flat-square&logo=data:image/svg+xml;base64,BASE64_CODE)
+![Simplilearn Kali Linux Basics](https://camo.githubusercontent.com/0c3d454de3dd1cbb309b9804a6d43ad38af757dfc108e858b07b0f447363aec5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53696d706c696c6561726e2d4b616c692532304c696e75782532304261736963732d436f6d706c657465642d7265643f7374796c653d666c61742d737175617265266c6f676f3d646174613a696d6167652f7376672b786d6c3b6261736536342c4241534536345f434f4445)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
 ![Scope](https://img.shields.io/badge/Focus-Penetration%20Testing%20Basics-green?style=flat-square&logo=linux)
 ![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
