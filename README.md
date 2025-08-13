@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
 ![Scope](https://img.shields.io/badge/Focus-Penetration%20Testing%20Basics-green?style=flat-square&logo=linux)
 ![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=openaccess)
-![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
+![Author](https://img.shields.io/badge/Maintainer-Th%C3%A0nh%20Danh-blueviolet?style=flat-square&logo=github)
 
 This repository documents my learning and practice from the **"Introduction to Kali Linux Basics"** course by [Simplilearn](https://www.simplilearn.com/).  
 It includes course notes, basic penetration testing demos, advanced analysis, screenshots, and the completion certificate.
